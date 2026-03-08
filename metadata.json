@@ -1,0 +1,8 @@
+{
+  "name": "Inmunidad Digital Colectiva - iOS Architecture",
+  "description": "High-availability architecture for iOS digital immunity using multi-process watchdog, VPN On-Demand, and CoreML optimization.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ]
+}
